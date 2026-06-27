@@ -104,18 +104,18 @@ Overall this project bridges the gap between raw survey data and meaningful deci
 
 ---
 
-##  👤 Author
-
-Soumya Pandey
-Mechanical Engineering, NIT Jamshedpur
-Minor Project — Data Analytics
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repository
 2. Open `analysis.ipynb` in VS Code or Jupyter
 3. Run all cells in order using `Shift + Enter`
+
+---
+
+##  👤 Author
+
+Soumya Pandey
+Mechanical Engineering, NIT Jamshedpur
+Minor Project — Data Analytics
 
 ---
