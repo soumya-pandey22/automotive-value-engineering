@@ -1,16 +1,16 @@
-# Car Purchase Preference Analyzer
+#  🚗 Car Purchase Preference Analyzer
 
 A data-driven decision support project built in Python that analyzes car purchasing preferences based on primary survey data collected from 47 respondents. The project applies a weighted scoring framework to rank 9 cars across 7 key parameters, providing actionable insights for both customers and automotive marketers.
 
 ---
 
-## Motivation
+##  💡 Motivation
 
 Buying a car involves trade-offs across multiple factors — safety, fuel efficiency, cost, aesthetics, and more. Different customers prioritize these differently. This project builds a structured analytical framework that quantifies these preferences and maps them to real car ratings, producing an objective ranking system.
 
 ---
 
-## Dataset
+##  📂 Dataset
 
 Three CSV files form the backbone of this project:
 
@@ -26,7 +26,7 @@ Three CSV files form the backbone of this project:
 
 ---
 
-## Project Structure
+##  🗂️ Project Structure
 Minor Project/
 
 │
@@ -41,7 +41,7 @@ Minor Project/
 
 ---
 
-## Analysis Sections
+##  📊 Analysis Sections
 
 **Section 1 — Data Loading**
 All three datasets are loaded using Pandas and displayed as formatted tables for initial inspection.
@@ -60,7 +60,7 @@ Safety and Fuel Efficiency weights are swapped to simulate a different customer 
 
 ---
 
-## Tech Stack
+##  🛠️ Tech Stack
 
 - Python 3.13
 - Pandas
@@ -70,7 +70,7 @@ Safety and Fuel Efficiency weights are swapped to simulate a different customer 
 
 ---
 
-## Key Findings
+##  🔍 Key Findings
 
 - Safety and Fuel Efficiency are the dominant purchasing criteria among surveyed respondents
 - Tata Altroz and Maruti Breeza consistently rank highest across multiple customer profiles
@@ -78,15 +78,7 @@ Safety and Fuel Efficiency weights are swapped to simulate a different customer 
 
 ---
 
-## How to Run
-
-1. Clone the repository
-2. Open `analysis.ipynb` in VS Code or Jupyter
-3. Run all cells in order using `Shift + Enter`
-
----
-
-Conclusion
+## ✅ Conclusion
 
 This project successfully demonstrates the application of a weighted scoring framework to evaluate and rank cars based on multi-parameter survey data. By combining primary data collection from 47 respondents with structured analytical techniques, the project moves beyond subjective car buying decisions toward a data-driven approach.
 
@@ -96,7 +88,7 @@ Overall this project bridges the gap between raw survey data and meaningful deci
 
 ---
 
-## Future Scope
+##  🚀 Future Scope
 
 - **Expand the dataset** — Include more car models across segments (SUV, sedan, hatchback) and collect survey data from a larger and more diverse respondent pool
 
@@ -110,8 +102,20 @@ Overall this project bridges the gap between raw survey data and meaningful deci
 
 - **Multi-country analysis** — Extend the survey to respondents across different regions to study how cultural and economic factors influence car buying priorities
 
-## Author
+---
+
+##  👤 Author
 
 Soumya Pandey
 Mechanical Engineering, NIT Jamshedpur
 Minor Project — Data Analytics
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open `analysis.ipynb` in VS Code or Jupyter
+3. Run all cells in order using `Shift + Enter`
+
+---
